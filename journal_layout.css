@@ -21,7 +21,9 @@ body{
     background-color: #E8FBFB;
     padding: 5px;
     margin-top: 10px;
-    padding-bottom:6%;
+}
+#clear {
+    clear: right;
 }
 #date{
     border-bottom: 2px dashed blue;
